@@ -1,0 +1,11 @@
+.card:hover{
+  transition: 0.1s linear;
+  transform:scale(1.01,1.01);
+  opacity: 0.9;
+}
+
+
+a{
+  text-decoration: none;
+
+}
